@@ -1,0 +1,2 @@
+# COCID-19 Classification
+i interned at bisa.ai, technology development company in the field of artificial intelligence. I am working on several projects, one of which is the classification of xray images that have contracted covid19
