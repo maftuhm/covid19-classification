@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/
+*.h5
+Covid-19 Detection.ipynb
